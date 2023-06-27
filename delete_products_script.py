@@ -58,7 +58,7 @@ def delete_products_without_images():
     print("Remaining products: {}".format(remaining_products))
 
 
-# Call the function to delete products without images
+# Call the function to delete products without images.
 delete_products_without_images()
 
 
