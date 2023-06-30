@@ -26,7 +26,7 @@ This script deletes products from a WooCommerce store that do not have any assoc
 
    You can either set these variables directly in your environment or create a `.env` file in the script's directory and define them there.
 
-4. Adjust the pagination parameters in the script if needed. The default `per_page` value is set to 100, but you can modify it based on your requirements.
+4. Adjust the pagination parameters in the script if needed. The default `per_page` value is set to 10, but you can modify it based on your requirements.
 
 ## Usage
 
